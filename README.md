@@ -1,8 +1,18 @@
 # SPDX Software Bill of Materials (SBOM) Generator
 
-🚧 THIS PROJECT IS UNDER CONSTRUCTION 🚧
+---
 
-Keep up with work being done on the project by joining the [community call](https://meet.jit.si/SBOM-tools) every Wednesday at 9:30 am Pacific Time.
+🚨 THIS PROJECT IS DEPRECATED 🚨
+
+Due to the un-availability of maintainers for the project, and the wide availability and support for other SBOM tools, this project is deprecated.
+
+## Other Options
+
+The SPDX community recommends using [Trivy](https://github.com/aquasecurity/trivy) to generate SBOMs, and [Parlay](https://github.com/snyk/parlay) to enrich the SBOM with third party data.
+
+You can also use [Syft](https://github.com/anchore/syft) to generate SBOMs for archives and containers to generate SBOMs.
+
+---
 
 ## Table of Contents
 - [Contributing](CONTRIBUTING.md)
